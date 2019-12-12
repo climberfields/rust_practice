@@ -1,5 +1,16 @@
+/*fn five() -> i32 {
+    5
+}
+*/
+
+
 fn main() {
+    
+    let x = plus_one(5);
+
+    println!("The value of x is: {}, ", x)
     /*
+
     println!("Hello World!");
 
     another_function(5, 6, 7);
@@ -7,6 +18,12 @@ fn main() {
 
     // let y = 6;
 
+    
+
+}
+
+fn plus_one(x: i32) -> i32 {
+    x + 1;
 }
 
 /*
