@@ -1,0 +1,13 @@
+/Users/AlexF/rust_practice/hello-rocket/target/debug/deps/pear-2e7d1bd5956d00ce.rmeta: /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/lib.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/macros.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/input.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/result.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/debug.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/combinators.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/parsers.rs
+
+/Users/AlexF/rust_practice/hello-rocket/target/debug/deps/libpear-2e7d1bd5956d00ce.rlib: /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/lib.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/macros.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/input.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/result.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/debug.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/combinators.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/parsers.rs
+
+/Users/AlexF/rust_practice/hello-rocket/target/debug/deps/pear-2e7d1bd5956d00ce.d: /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/lib.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/macros.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/input.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/result.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/debug.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/combinators.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/parsers.rs
+
+/Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/lib.rs:
+/Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/macros.rs:
+/Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/input.rs:
+/Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/result.rs:
+/Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/debug.rs:
+/Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/combinators.rs:
+/Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/parsers.rs:

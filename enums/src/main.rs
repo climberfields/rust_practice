@@ -65,3 +65,17 @@ enum Message {
     Write(String),
     ChangeColor(i32, i32, i32)
 }
+
+impl Message {
+    fn call(&self) {
+
+    }
+}
+
+let m = Message::Write(String::from("Hello"));
+m.call();
+
+enum Option<T> {
+    Some(T),
+    None,
+}
