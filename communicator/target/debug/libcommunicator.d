@@ -1,0 +1,1 @@
+/Users/AlexF/rust_practice/communicator/target/debug/libcommunicator.rlib: /Users/AlexF/rust_practice/communicator/src/client.rs /Users/AlexF/rust_practice/communicator/src/lib.rs /Users/AlexF/rust_practice/communicator/src/network.rs
