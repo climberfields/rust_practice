@@ -2,6 +2,7 @@
 // module named network and in this network we have a function 
 // function is called connect   
 // to call this you would use network::connect
+
 mod network {
     fn connect() {
 
@@ -21,12 +22,12 @@ mod client {
     }
 }
 
-*/
+
 
 // lets say you have mod network and decide to put client in there
 // this would make sense because if the network had client functions it would be easier to read
 // if you wanted to call this you could use network::client::connect
-/*
+
 
 mod network {
     fn connect() {
@@ -39,11 +40,11 @@ mod network {
     }
 }
 
-*/ 
 // mod client tells the file to look somewhere else
 // mod client means (RUST search client.rs for contents and functions)
 pub mod client; 
 
+// in order to allow the mod to be used in other files you have to the pub listing
 pub mod network ;
 
 
