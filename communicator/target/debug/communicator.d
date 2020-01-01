@@ -1,0 +1,1 @@
+/Users/AlexF/rust_practice/communicator/target/debug/communicator: /Users/AlexF/rust_practice/communicator/src/client.rs /Users/AlexF/rust_practice/communicator/src/lib.rs /Users/AlexF/rust_practice/communicator/src/main.rs /Users/AlexF/rust_practice/communicator/src/network/mod.rs /Users/AlexF/rust_practice/communicator/src/network/server.rs

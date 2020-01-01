@@ -42,9 +42,9 @@ mod network {
 */ 
 // mod client tells the file to look somewhere else
 // mod client means (RUST search client.rs for contents and functions)
-mod client; 
+pub mod client; 
 
-mod network ;
+pub mod network ;
 
 
 
