@@ -59,3 +59,22 @@ let s4 = s1 + "-" + &s2 + "-" + &s3
 //OR 
 
 let s4 = format!("{}-{}-{}", s1, s2, s3);
+
+
+
+// indexing strings 
+// this will not work
+
+let s = String::from("hello");
+let h = s[1];
+
+// just don't even index strings like that, your head will hurt
+// and you'll cry. INSTEAD Rust has a different way of doing it
+
+for c in "hello".chars() {
+    println!("{}", c);
+}
+
+// Just remember that RUST stores strings as UTF-8 instead of ASCII
+// So UTF-8 is just going to give you the byte information whereas
+// ASCII would've given you the key corresponding to that spot
